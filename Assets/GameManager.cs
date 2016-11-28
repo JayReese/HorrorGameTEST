@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public enum Status { PARANOIA, SCIZOPHRENIA };
+public enum Affliction { PARANOIA, SCIZOPHRENIA };
 
 public class GameManager : MonoBehaviour
 {
-
     
+
 
 	// Use this for initialization
 	void Start ()
